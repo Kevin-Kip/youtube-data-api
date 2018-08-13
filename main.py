@@ -3,7 +3,7 @@ import json
 
 
 def get_data(user_name):
-    api_key = "AIzaSyBT7PXSCy-RdsLhWyN8itRaqVCTfeOL7Fc"  # YOUR API KEY HERE
+    api_key = "YOUR API KEY HERE"  # this is from https://console.developers.google.com/apis/dashboard
     user_name = replace(user_name)
     base_url = "https://www.googleapis.com/youtube/v3/channels?part=statistics&forUsername="+user_name+"&key="+api_key
 
