@@ -5,9 +5,9 @@ This is a simple implementation of the [youtube data API.](https://developers.go
 ## What Exactly? :confused:
 Well, this code fetches and displays:
 
--[x] Subscriber count
--[x] Number of Videos
--[x] Total Views
+1. Subscriber count
+2. Number of Videos
+3. Total Views
 
 ## How to use this code :blush:
 1. Clone/download the repo
